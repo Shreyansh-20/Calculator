@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Roboto:wght@300&display=swap');
+.text-center{
+
+    text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+.flex{
+display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
